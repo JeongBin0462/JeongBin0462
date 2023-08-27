@@ -1,5 +1,4 @@
-# Hello My git
-
+# <div align="center"> Jeongbin Repo </div>
 
 ### :triangular_flag_on_post: <a name="tech">I can</a>
 
@@ -22,4 +21,13 @@
   <img src="https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </div> 
 
+</br></br>
+#
+</br>
 
+### :page_with_curl: Readme Widget
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeongBin0462&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=JeongBin0462&show_icons=true">
+</div>
